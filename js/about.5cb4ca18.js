@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["about"],{f820:function(n,e,u){"use strict";u.r(e);var t=u("7a23"),c=Object(t["e"])("h1",null,"Visual Vue Builder",-1),l=Object(t["e"])("h2",null,"Just for fun :-)",-1);function o(n,e){return Object(t["n"])(),Object(t["c"])("div",null,[c,l])}const r={};r.render=o;e["default"]=r}}]);
+//# sourceMappingURL=about.5cb4ca18.js.map

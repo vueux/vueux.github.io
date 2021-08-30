@@ -1,1 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["about"],{f820:function(n,u,e){"use strict";e.r(u);var t=e("7a23"),c=Object(t["h"])("h1",null,"Visual Vue Builder",-1),l=Object(t["h"])("h2",null,"Just for fun :-)",-1);function o(n,u){return Object(t["q"])(),Object(t["d"])("div",null,[c,l])}const r={};r.render=o;u["default"]=r}}]);
